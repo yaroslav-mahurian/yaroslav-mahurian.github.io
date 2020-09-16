@@ -38,7 +38,7 @@ var controller = (function (budgetCtrl, uiCtrl) {
 
             // Убрать в финальной версии
             uiCtrl.clearFields();
-            // generateTestData.init();
+            //generateTestData.init();
 
             // 4. Посчитать бюджет 
             updateBudget();
